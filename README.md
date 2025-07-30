@@ -25,6 +25,7 @@
 <img height="30" src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 
 ![Karthik1409-R's Stats](https://github-readme-stats.vercel.app/api?username=Karthik1409-R&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+<br />
 ![Karthik1409-R's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik1409-R&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Karthik-1409?theme=dark&font=Marcellus&ext=heatmap)](https://leetcode.com/u/Karthik-1409/)
