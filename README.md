@@ -1,11 +1,11 @@
 ## Hi there 👋 It's me Karthik
 
-### 3rd Year @SAEC | Fulll Stack Developer
+### 3rd Year @SAEC | Full Stack Developer |
 
 <img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">                                          
-- 🌱 I’m currently learning DSA
-- <br />
-- Social Presence
+🌱 I’m currently learning DSA
+ <br />
+ Social Presence
 <br /> 
 <br />
 <p>
