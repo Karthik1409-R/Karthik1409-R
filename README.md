@@ -2,7 +2,7 @@
 
 ### III Year CSE (Cyber Security) @SAEC | Full Stack Developer.
 
-<img align="right" width="370" height="290" src="https://img.pikbest.com/png-images/20240703/a-graphic-designers-man-working-on-a-laptop-at-office-_10648497.png!w700wp">                                          
+<img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">                                          
 🌱 I’m currently learning DSA
  <br />
  <br />
