@@ -3,8 +3,7 @@
 ### III Year @SAEC | Full Stack Developer.
 
 <img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">                                          
-🌱 I’m currently learning DSA<br />
- Visit My Profile : <a href="karthiikcoder.web.app">Portfolio</a> 
+🌱 I’m currently learning DSA
  <br />
  <br />
  Social Presence
