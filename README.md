@@ -20,7 +20,7 @@
 - 💻 Passionate **Full Stack Developer**  
 - 🌱 Currently learning **Data Structures & Algorithms**  
 - 🔐 Interested in **Secure Web Applications & Cyber Security**  
-- 🎯 Goal: **Full Stack + Security Engineer**
+- 🎯 Goal: **Full Stack || Software Engineer**
 
 ---
 
@@ -74,11 +74,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthik1409-R&show_icons=true&theme=tokyonight"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik1409-R&layout=compact&theme=tokyonight"/>
 </p>
@@ -97,13 +92,6 @@
   <a href="https://leetcode.com/u/Karthik-1409/">
     <img src="https://leetcard.jacoblin.cool/Karthik-1409?theme=dark&ext=heatmap"/>
   </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Karthik1409-R/Karthik1409-R/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
