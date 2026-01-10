@@ -74,12 +74,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik1409-R&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 📈 GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik1409-R&bg_color=0d1117&color=ffffff&line=38bdf8&point=818cf8&area=true"/>
