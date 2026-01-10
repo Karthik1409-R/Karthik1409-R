@@ -18,8 +18,7 @@
 ## 🚀 About Me
 - 🎓 III Year **Computer Science & Engineering (Cyber Security)** student  
 - 💻 Passionate **Full Stack Developer**  
-- 🌱 Currently learning **Data Structures & Algorithms**  
-- 🔐 Interested in **Secure Web Applications & Cyber Security**  
+- 🌱 Currently learning **Data Structures & Algorithms**
 - 🎯 Goal: **Full Stack || Software Engineer**
 
 ---
