@@ -1,39 +1,124 @@
-## Hi there 👋 It's me Karthik
+<h1 align="center">Hi 👋, I'm Karthik R</h1>
+<h3 align="center">III Year CSE (Cyber Security) @ SA Engineering College | Full Stack Developer</h3>
 
-### III Year @SAEC | Full Stack Developer.
-
-<img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">                                          
-🌱 I’m currently learning DSA
- <br />
- <br />
- Social Presence
-<br /> 
-<p>
-  <a href="https://x.com/KarthikR1621380" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/karthik-ramamoorthy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/bboy__lucky__3k/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<p align="center">
+  <a href="https://karthiikcoder.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-karthiikcoder.web.app-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tailwind_css.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" src="https://img.icons8.com/color/48/supabase.png" alt="Supabase"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;DSA+Learner;Always+Learning+New+Things" />
+</p>
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img align="right" width="360" height="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Lenovo-LOQ-000000?style=for-the-badge&logo=lenovo&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+---
 
-![Karthik1409-R's Stats](https://github-readme-stats.vercel.app/api?username=Karthik1409-R&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
-<br />
-![Karthik1409-R's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik1409-R&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+## 🚀 About Me
+- 🎓 III Year **Computer Science & Engineering (Cyber Security)** student  
+- 💻 Passionate **Full Stack Developer**  
+- 🌱 Currently learning **Data Structures & Algorithms**  
+- 🔐 Interested in **Secure Web Applications & Cyber Security**  
+- 🎯 Goal: **Full Stack + Security Engineer**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Karthik-1409?theme=dark&font=Marcellus&ext=heatmap)](https://leetcode.com/u/Karthik-1409/)
+---
+
+## 🌐 Social Presence
+<p align="left">
+  <a href="https://x.com/KarthikR1621380" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/karthik-ramamoorthy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/bboy__lucky__3k/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 Tech Stack
+
+### Languages & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=light#gh-light-mode-only"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark#gh-dark-mode-only"/>
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,supabase&theme=light#gh-light-mode-only"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,supabase&theme=dark#gh-dark-mode-only"/>
+</p>
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python&theme=light#gh-light-mode-only"/>
+  <img src="https://skillicons.dev/icons?i=java,python&theme=dark#gh-dark-mode-only"/>
+</p>
+
+---
+
+## 🛠️ IDEs & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,netlify,eclipse&theme=light#gh-light-mode-only"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,netlify,eclipse&theme=dark#gh-dark-mode-only"/>
+</p>
+
+---
+
+## 💻 Workspace Specs
+<p>
+  <img src="https://img.shields.io/badge/Lenovo-LOQ-000000?style=for-the-badge&logo=lenovo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA-RTX_2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthik1409-R&show_icons=true&theme=tokyonight#gh-dark-mode-only"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthik1409-R&show_icons=true&theme=default#gh-light-mode-only"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik1409-R&layout=compact&theme=tokyonight#gh-dark-mode-only"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik1409-R&layout=compact&theme=default#gh-light-mode-only"/>
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik1409-R&bg_color=ffffff&color=000000&line=4f46e5&point=6366f1&area=true#gh-light-mode-only"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik1409-R&bg_color=0d1117&color=ffffff&line=38bdf8&point=818cf8&area=true#gh-dark-mode-only"/>
+</p>
+
+---
+
+## 🧠 LeetCode Stats
+<p align="center">
+  <a href="https://leetcode.com/u/Karthik-1409/">
+    <img src="https://leetcard.jacoblin.cool/Karthik-1409?theme=light&ext=heatmap#gh-light-mode-only"/>
+    <img src="https://leetcard.jacoblin.cool/Karthik-1409?theme=dark&ext=heatmap#gh-dark-mode-only"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Karthik1409-R/Karthik1409-R/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+  <img src="https://raw.githubusercontent.com/Karthik1409-R/Karthik1409-R/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+</p>
+
+---
+
+## ✨ Quote
+> “Build securely. Code cleanly. Learn continuously.”
+
+⭐ **If you like my work, consider starring my repositories!**
+ 
