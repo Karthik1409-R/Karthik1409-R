@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;DSA+Learner;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Learner;Always+Learning+New+Things" />
 </p>
 
 <img align="right" width="360" height="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
