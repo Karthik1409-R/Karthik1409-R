@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://karthiikcoder.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-karthiikcoder.web.app-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-karthiikcoder.web.app-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 ---
 
 ## 🌐 Social Presence
-<p align="left">
+<p>
   <a href="https://x.com/KarthikR1621380" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
@@ -43,28 +43,24 @@
 
 ### Languages & Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=light#gh-light-mode-only"/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark#gh-dark-mode-only"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark"/>
 </p>
 
 ### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,supabase&theme=light#gh-light-mode-only"/>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,supabase&theme=dark#gh-dark-mode-only"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,supabase&theme=dark"/>
 </p>
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python&theme=light#gh-light-mode-only"/>
-  <img src="https://skillicons.dev/icons?i=java,python&theme=dark#gh-dark-mode-only"/>
+  <img src="https://skillicons.dev/icons?i=java,python&theme=dark"/>
 </p>
 
 ---
 
 ## 🛠️ IDEs & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,netlify,eclipse&theme=light#gh-light-mode-only"/>
-  <img src="https://skillicons.dev/icons?i=vscode,git,netlify,eclipse&theme=dark#gh-dark-mode-only"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,netlify,eclipse&theme=dark"/>
 </p>
 
 ---
@@ -80,21 +76,18 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthik1409-R&show_icons=true&theme=tokyonight#gh-dark-mode-only"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthik1409-R&show_icons=true&theme=default#gh-light-mode-only"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthik1409-R&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik1409-R&layout=compact&theme=tokyonight#gh-dark-mode-only"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik1409-R&layout=compact&theme=default#gh-light-mode-only"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik1409-R&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik1409-R&bg_color=ffffff&color=000000&line=4f46e5&point=6366f1&area=true#gh-light-mode-only"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik1409-R&bg_color=0d1117&color=ffffff&line=38bdf8&point=818cf8&area=true#gh-dark-mode-only"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik1409-R&bg_color=0d1117&color=ffffff&line=38bdf8&point=818cf8&area=true"/>
 </p>
 
 ---
@@ -102,8 +95,7 @@
 ## 🧠 LeetCode Stats
 <p align="center">
   <a href="https://leetcode.com/u/Karthik-1409/">
-    <img src="https://leetcard.jacoblin.cool/Karthik-1409?theme=light&ext=heatmap#gh-light-mode-only"/>
-    <img src="https://leetcard.jacoblin.cool/Karthik-1409?theme=dark&ext=heatmap#gh-dark-mode-only"/>
+    <img src="https://leetcard.jacoblin.cool/Karthik-1409?theme=dark&ext=heatmap"/>
   </a>
 </p>
 
@@ -111,8 +103,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Karthik1409-R/Karthik1409-R/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-  <img src="https://raw.githubusercontent.com/Karthik1409-R/Karthik1409-R/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+  <img src="https://raw.githubusercontent.com/Karthik1409-R/Karthik1409-R/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -121,4 +112,3 @@
 > “Build securely. Code cleanly. Learn continuously.”
 
 ⭐ **If you like my work, consider starring my repositories!**
- 
