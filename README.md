@@ -7,18 +7,11 @@
   </a>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;DSA+Learner;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Learner;Always+Learning+New+Things" />
 </p>
 
-<!-- Animated Wave Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:6366f1&height=120&section=header&animation=fadeIn"/>
-
-<!-- Coding Animation -->
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420"/>
-</p>
+<img align="right" width="360" height="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ---
 
@@ -28,8 +21,6 @@
 - 🌱 Currently learning **Data Structures & Algorithms**  
 - 🔐 Interested in **Secure Web Applications & Cyber Security**  
 - 🎯 Goal: **Full Stack || Software Engineer**
-
-<img src="https://user-images.githubusercontent.com/74038190/212897221-9c5f3b9c-59c6-4e74-90ff-91f04dbe8e28.gif" width="100%"/>
 
 ---
 
@@ -64,8 +55,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=java,python&theme=dark"/>
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212897221-9c5f3b9c-59c6-4e74-90ff-91f04dbe8e28.gif" width="100%"/>
 
 ---
 
