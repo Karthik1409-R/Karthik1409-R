@@ -47,12 +47,12 @@
 
 ### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,supabase&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,supabase&theme=dark"/>
 </p>
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark"/>
 </p>
 
 ---
