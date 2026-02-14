@@ -52,15 +52,16 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,python&theme=dark"/>
 </p>
 
 ---
 
 ## 🛠️ IDEs & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,windsurf,postman,intellij,git,github,netlify,vercel&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,idea,git,github,netlify,vercel&theme=dark"/>
 </p>
+
 
 ---
 
