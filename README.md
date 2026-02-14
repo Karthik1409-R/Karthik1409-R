@@ -42,8 +42,9 @@
 
 ### Languages & Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,reactquery,zustand,zod&theme=dark"/>
 </p>
+
 
 ### Backend & Databases
 <p>
