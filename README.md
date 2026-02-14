@@ -59,7 +59,7 @@
 
 ## 🛠️ IDEs & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,netlify,eclipse&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=vscode,windsurf,postman,intellij,git,github,netlify,versal&theme=dark"/>
 </p>
 
 ---
